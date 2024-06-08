@@ -1,2 +1,2 @@
-# Calculator-JavaScript
-Build A Calculator With JavaScript
+# Calculator
+Build A Calculator With JavaScript, html and css
